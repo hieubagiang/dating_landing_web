@@ -162,7 +162,7 @@
                         ràng để nổi bật.</h4>
                 </div>
                 <div data-aos="zoom-in" class="container-gt-pt">
-                    <a href="#" style="text-decoration: none" class="btn-gt-pt">
+                    <a href="/download" style="text-decoration: none" class="btn-gt-pt">
                         <svg width="277" height="62">
                             <a href="/download"><span class="text-uppercase font-weight-bold">Tải về ngay</span></a>
                             <defs>
