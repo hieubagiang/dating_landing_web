@@ -16,7 +16,7 @@
                     <p> và còn nhiều ưu đãi hấp dẫn khác đang chờ bạn khám phá.</p>
                 </div>
                 <h4 style="padding-bottom: 26px;">DATING - SỰ LỰA CHỌN HÀNG ĐẦU</h4>
-                <a href="https://dating.hieuit.me/download?fbclid=IwAR2sJfp9XoF6R2uldA4XkrdP0I5XmiUJ7jpjKQZSBRZjtfJHcS4brOinqMc">
+                <a href="dou/app.rar">
                     <button type="button" style="background-color: #E94057; border-color :#E94057"  class="btn btn-primary">Tải về ngay</button>
                 </a>
             </div>

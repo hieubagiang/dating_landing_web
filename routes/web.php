@@ -23,3 +23,7 @@ Route::get('/', function () {
 Route::get('/download', function () {
     return view('client/index-body/do-chi-so-co-the');
 });
+Route::get('/file', function() {
+    return true;
+});
+
