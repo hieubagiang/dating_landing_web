@@ -122,22 +122,21 @@
             <img class="img-responsive" width="100%" height="auto"
                  src="{{asset('image/1010.jpg')}}" alt="">
             <div class="home-overlay">
-                <h1 style="color: white">Tuấn Anh Vũ</h1>
-                <h2>FA lâu năm chính hiệu</h2>
+                <h1 style="color: white">Phạm Doãn Hiếu</h1>
+                <h2>Sinh viên cô đơn lâu năm</h2>
             </div>
         </div>
         <div class="container">
             <div class="row mt-5">
                 <div class="col-sm-8 text-gt-pt" data-aos="fade-right">
-                    <h4> Tôi là Tuấn Anh Vũ.
+                    <h4> Tôi là Phạm Doãn Hiếu.
                     </h4>
-                    <h4>Nhờ có Dating, tôi đã tìm thấy người yêu của đời mình và chúng tôi sắp kết hôn.
+                    <h4>Nhờ có Dating, tôi đã tìm thấy người yêu của đời mình.
 
-                        Sau khi trải qua vài buổi hẹn hò và mấy buối tối vui vẻ, tôi tình cờ gặp được
-                        Miranda. Sau khi đọc hồ sơ của cô ấy, tôi đã không thể không vuốt phải chọn
-                        cô ấy sau khi đọc câu kết trong đó… 'Đang tìm kiếm nửa còn lại của đời tôi.'
-                        Sau khi trò chuyện khoảng một tuần, chúng tôi tiến tới cuộc hẹn gặp đầu tiên
-                        và tôi biết ở cô ấy có điều gì đó rất đặc biệt!</h4>
+                    Nhờ sự tồn tại của nền tảng này, tôi đã tìm thấy Miranda - người đặc biệt và phù hợp 
+                    với tôi. Tôi biết không có ứng dụng nào tạo nên tình yêu thật sự, nhưng ứng dụng hẹn 
+                    hò đã mở ra cánh cửa để chúng tôi gặp nhau và bắt đầu một hành trình tuyệt vời cùng 
+                    nhau. Lời cảm ơn chân thành đến ứng dụng hẹn hò và những người đã tạo nên nền tảng này.</h4>
                 </div>
                 <div class="col-sm-4 pl-5" data-aos="fade-left">
                     <div class=" col-sm-10 img-chungchi">

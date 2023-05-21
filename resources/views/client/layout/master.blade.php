@@ -25,7 +25,7 @@ $check = preg_match('/blog/', $urlName);
 <div class="hh">
     <div class="row header-style floatingNav" id="navbar" style="width: 100%">
         <div class="col-2 logo-header mt-2 mb-2 " style="padding-left: 0px">
-            <a href="{{route('home')}}"><img src="{{asset('image/home.png')}}" style="width: 70px"  alt="..."
+            <a href="{{route('home')}}"><img src="{{asset('image/home.png')}}" style="width: 70px; height: 70px"  alt="..."
                              class=" logo-image"></a>
         </div>
         <div class="col-8 navbar-header" >
