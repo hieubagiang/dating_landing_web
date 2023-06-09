@@ -133,7 +133,7 @@
                     </h4>
                     <h4>Nhờ có Dating, tôi đã tìm thấy người yêu của đời mình.
 
-                    Nhờ sự tồn tại của nền tảng này, tôi đã tìm thấy Miranda - người đặc biệt và phù hợp 
+                    Nhờ sự tồn tại của nền tảng này, tôi đã tìm thấy Hương Giang - người đặc biệt và phù hợp 
                     với tôi. Tôi biết không có ứng dụng nào tạo nên tình yêu thật sự, nhưng ứng dụng hẹn 
                     hò đã mở ra cánh cửa để chúng tôi gặp nhau và bắt đầu một hành trình tuyệt vời cùng 
                     nhau. Lời cảm ơn chân thành đến ứng dụng hẹn hò và những người đã tạo nên nền tảng này.</h4>

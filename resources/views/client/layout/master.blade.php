@@ -107,11 +107,11 @@ $check = preg_match('/blog/', $urlName);
                 <h6 class="text-uppercase font-weight-bold">Liên hệ</h6>
                 <hr class="deep-purple accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
                 <p>
-                    <i class="fas fa-home mr-3"></i>Số 141 Chiến Thắng</p>
+                    <i class="fas fa-home mr-3"></i>Phùng Khoang, Nam Từ Liêm</p>
                 <p>
-                    <i class="fas fa-envelope mr-3 mt-3"></i> Dating@gmail.com</p>
+                    <i class="fas fa-envelope mr-3 mt-3"></i> phamdoanhieu@gmail.com</p>
                 <p>
-                    <i class="fas fa-phone mr-3 mt-3"></i> 0869343091</p>
+                    <i class="fas fa-phone mr-3 mt-3"></i> 0941716670</p>
 
             </div>
         </div>
@@ -122,7 +122,7 @@ $check = preg_match('/blog/', $urlName);
             <div class="col-md-12  py-5 social-icon-layout">
                 <div class=" flex-center">
                     <!-- Facebook -->
-                    <a class="fb-ic" href="https://www.facebook.com/">
+                    <a class="fb-ic" href="https://www.facebook.com/phamdoanhieu">
                         <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 "> </i>
                     </a>
                     <!-- Twitter -->
@@ -147,7 +147,7 @@ $check = preg_match('/blog/', $urlName);
         </div>
         <!-- Grid row-->
     </div>
-    <div class="footer-copyright text-center py-3 ">Copyright Group_6 2022 <br>
+    <div class="footer-copyright text-center py-3 ">Copyright Phạm DoãN Hiếu 2023 <br>
     </div>
 </footer>
 <script src="{{asset('js/app.js')}}"></script>
