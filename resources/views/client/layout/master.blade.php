@@ -147,7 +147,7 @@ $check = preg_match('/blog/', $urlName);
         </div>
         <!-- Grid row-->
     </div>
-    <div class="footer-copyright text-center py-3 ">Copyright Phạm DoãN Hiếu 2023 <br>
+    <div class="footer-copyright text-center py-3 ">Copyright Phạm Doãn Hiếu 2023 <br>
     </div>
 </footer>
 <script src="{{asset('js/app.js')}}"></script>
