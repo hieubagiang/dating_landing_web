@@ -16,7 +16,7 @@
                     <p> và còn nhiều ưu đãi hấp dẫn khác đang chờ bạn khám phá.</p>
                 </div>
                 <h4 style="padding-bottom: 26px;">DATING - SỰ LỰA CHỌN HÀNG ĐẦU</h4>
-                <a href="dou/app.rar">
+                <a href="dou/app.apk">
                     <button type="button" style="background-color: #E94057; border-color :#E94057"  class="btn btn-primary">Tải về ngay</button>
                 </a>
             </div>
